@@ -1,0 +1,2 @@
+Who is known as the father of modern physics?,Einstein,Newton,Galileo,Bohr,A
+What is the boiling point of water in Celsius?,50,100,150,200,B
