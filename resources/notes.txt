@@ -1,4 +1,4 @@
- TriviaGameProject/
+ QUIZWARS-FINAL/
 ├── src/
 │   ├── Main.java
 │   ├── Question.java
@@ -13,6 +13,38 @@
 ├── .gitignore
 └── README.md
 
+____________________________________________________________________________________________________________________________________________________________________________
+
+ORDER OF CODING: 
+  Question
+
+  EasyQuestion, MediumQuestion, HardQuestion
+
+  QuestionLoader
+
+  Main
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
+ORDER OF CODING
+
+Question.java
+- Start with the base class. It provides the foundation for all questions, containing shared properties and methods.
+This ensures you can easily build subclasses like EasyQuestion, MediumQuestion, and HardQuestion.
+
+EasyQuestion.java, MediumQuestion.java, and HardQuestion.java
+- Create these subclasses next. They extend Question and implement the specific details for each difficulty.
+These are essential for loading and handling different types of questions.
+
+QuestionLoader.java
+- Once the question classes are ready, focus on this utility class. It will load questions from the files based on the difficulty level.
+You can test it separately by calling loadQuestions() with mock data or a simple main method.
+
+Main.java
+- Write the Main class last. It brings everything together by invoking QuestionLoader, displaying questions, and interacting with the user.
+This class relies on the other components being ready and functional.
+
+____________________________________________________________________________________________________________________________________________________________________________
 
 
 Updated Java Code
@@ -25,8 +57,8 @@ EasyQuestion.java
 MediumQuestion.java
 
 HardQuestion.java: 
-These classes extend Question and handle the specific difficulty logic.
 
+These classes extend Question and handle the specific difficulty logic.
 
 resources: easy, medium, hard
 
