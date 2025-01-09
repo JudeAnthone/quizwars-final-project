@@ -1,2 +1,40 @@
-Who is known as the father of modern physics?,Einstein,Newton,Galileo,Bohr,A
-What is the boiling point of water in Celsius?,50,100,150,200,B
+1. Which of the following is an example of a metaphor?,As brave as a lion,The world is a stage,Buzzing bees,Clap of thunder,B
+
+2. What is the past perfect form of the verb "to write"?,Wrote,had, written,writes,has written,B
+
+3. In which genre would you classify Pride and Prejudice by Jane Austen?,Science fiction,Historical fiction,Romance, Mystery,C
+
+4. What does the prefix "inter-" mean?,Over,Between,Under,Beside,B
+
+5. What is 2x + 5 = 15? Solve for x., 3,5,7,10,A
+
+6. The area of a rectangle is 48, and its length is 8. What is its width?,4,5,6,7,C
+
+7. If a triangle has angles measuring 50° and 60°, what is the measure of the third angle?,70°,80°,90°,100°,B
+
+8. What is the square root of 144?,10,11,12,13,C
+
+9. What is the center of an atom called?,Proton,Nucleus, Electron,Neutron,B
+
+10. Which planet is known as the "Red Planet"?,Venus,Mars,Jupiter,Saturn,B
+
+11. What is the chemical symbol for water?,H2,H2O,O2,HO2,B
+
+12. What type of energy does a moving object have?,Potential energy,Kinetic energy,Thermal energy,Chemical energy,B
+
+13. Who was the first president of the Philippines?,Emilio Aguinaldo,Manuel L. Quezon,Andres Bonifacio,Jose Rizal,A
+
+
+14. What year did the Philippines gain independence from the United States?,1935,1946,1965,1972,B
+
+15. The Battle of Mactan in 1521 was between Lapu-Lapu and:,Ferdinand Magellan,Miguel Lopez de Legazpi,Rajah Humabon,Antonio Pigafetta,A
+
+16. What was the official newspaper of the Propaganda Movement?,Noli Me Tangere,El Filibusterismo,La Solidaridad,La Liga Filipina,C
+
+17. What sparked the start of World War I?,The assassination of Archduke Franz Ferdinand,The bombing of Pearl Harbor,The signing of the Treaty of Versailles,The rise of Adolf Hitler,A
+
+18. The Cold War was primarily between which two nations?,USA and Japan,USA and USSR,Germany and France,Britain and China,B
+
+19. What year did the United Nations form?,1919,1939,1945,1960,C
+
+20. Who was the first emperor of Rome?,Julius Caesar,Augustus,Nero,Tiberius,B

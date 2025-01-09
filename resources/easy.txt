@@ -1,2 +1,39 @@
-What is 2 + 2?,2,3,4,5,C
-Which is the capital of the Philippines?,Manila,Quezon City,Cebu,Davao,A
+1.Which of the following is a noun?,Run,Apple,Quickly,Beautiful,B
+
+2.What is the plural form of "child"?,Childs,Children,Childrens,Childes,B
+
+3.Which of the following is a complete sentence?,Running in the park.,The dog barks.,Quickly to the store.,Because it rained.,B
+
+4.Which of the following words is spelled correctly?,Recieve,Receive,Reciept,Receve,B
+
+5.What is 5 + 3?,6,7,8,9,C
+
+6.What is the product of 4 and 6?,20,22,24,26,C
+
+7.If you have a dozen eggs, how many eggs do you have?,6,10,12,14,C
+ 
+8.A triangle has three sides. True or false?,True,False,N/A,N/A,A
+
+9.What planet do we live on?,Mars,Jupiter,Earth,Venus,C
+
+10.Which part of the plant is responsible for photosynthesis?,Roots,Stem,Leaves,Flower,C
+
+11.What is the process of water changing from a liquid to a gas called?,Melting,Freezing,Evaporation,Condensation,C
+
+12.What is H2O commonly known as?,Salt,Water,Carbon dioxide,Hydrogen gas,B
+
+13.Who is known as the national hero of the Philippines?,Jose Rizal,Emilio Aguinaldo,Andres Bonifacio,Manuel L. Quezon,A
+
+14.What is the color of the sun in the Philippine flag?,Red,White,Yellow,Blue,C
+
+15.Which country colonized the Philippines for over 300 years?,United States,Spain,Japan,China,B
+
+16.What year is celebrated as Philippine Independence Day?,June 12,July 4,August 30,November 30,A
+
+17.Who discovered America in 1492?,Christopher Columbus,Ferdinand Magellan,Marco Polo,Amerigo Vespucci,A
+
+18.What war took place between 1939 and 1945?,World War I,World War II,Cold War,Vietnam War,B
+
+19.Who was the first president of the United States?,Abraham Lincoln,George Washington,Thomas Jefferson,John Adams,B
+
+20.What is the capital of France?,Rome,Paris,London,Berlin,B

@@ -1,2 +1,40 @@
-Who was the first president of the USA?,Washington,Jefferson,Lincoln,Adams,A
-What is the square root of 144?,10,11,12,13,C
+1. Identify the figure of speech: "The silence was as deafening as thunder.",Simile,Paradox,Metaphor,Personification,B
+
+2. Which of the following words is an example of a gerund?,Running,Dance,Sleeping,Barked,A
+
+3. Who wrote the famous poem "Ozymandias"?,William Blake,John Keats,Percy Bysshe Shelley,Lord Byron,C
+
+4. What is the meaning of the suffix "-logy" in biology?,Study of,Science of,Theory of,Observation of,A
+
+5. Solve for x: 2x² - 3x - 5 = 0, 5/2,1,-1,No solution,C
+
+6. What is the derivative of sin(x)?,cos(x),-cos(x),sin(x),-sin(x),A
+
+7. A circle has a radius of 7. What is its area?,49π,14π,21π,77π,A
+
+8. A triangle with sides 5, 12, and 13 is:,Equilateral,Right,Isosceles,Scalene,B
+
+9. What is the molar mass of H2SO4?,96 g/mol,98 g/mol,100 g/mol,102 g/mol,B
+
+10. Which gas law states that pressure and volume are inversely proportional?,Charles's Law,Boyle's Law,Avogadro's Law,Gay-Lussac's Law,B
+
+11. What particle is exchanged during nuclear reactions?,Electron,Photon,Neutron,Proton,C
+
+12. Who was the second president of the Philippines?,Manuel L. Quezon,Sergio Osmeña,Jose Laurel,Ramon Magsaysay,B
+
+13. The Pact of Biak-na-Bato was signed in which year?,1896,1897,1898,1901,B
+
+14. Who led the longest revolt in Philippine history?,Diego Silang,Dagohoy,Andres Malong,Francisco Maniago,B
+
+15. What is the name of the Philippine constitutional convention in 1934?,Tydings-McDuffie Act,1934 Constitutional Assembly,Malolos Congress,Philippine Constitutional Convention,D
+
+16. Which act established free public primary education in the Philippines?,Education Act of 1901,Education Act of 1982,Education Reform Act,Free Public Act of 1935,A
+
+17. Which treaty ended World War I?,Treaty of Paris,Treaty of Versailles,Treaty of Brest-Litovsk,Treaty of Ghent,B
+
+18. What was the name of the German strategy during World War II?,Trench Warfare,Blitzkrieg,Operation Overlord,Manhattan Project,B
+
+19. The Industrial Revolution began in which country?,France,United States,Germany,Great Britain,D
+
+20. Who succeeded Queen Elizabeth I of England?,James I,Charles I,Henry VIII,William III,A
+
