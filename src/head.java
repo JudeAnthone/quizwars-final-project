@@ -1,9 +1,9 @@
-import java.io.*;
+ import java.io.*;
 import java.util.*;
 
-public class main {
+public class head {
 
-  public static void main(String[] args) {
+  public static void main (String[] args) {
     Scanner userInput = new Scanner(System.in);
 
     //MESSAGE DISPLAY
