@@ -1,2 +1,2 @@
-What is 2 + 2?,2,3,4,5,A
+What is 2 + 2?,2,3,4,5,C
 Which is the capital of the Philippines?,Manila,Quezon City,Cebu,Davao,A
