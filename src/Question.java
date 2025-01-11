@@ -1,5 +1,5 @@
 // base class of the questions 
-// abstract class
+// the whole class is abstract class overrided on Easy, Medium, Hard Question file
 public abstract class Question {
   protected String questionText;
   protected String optionA;
