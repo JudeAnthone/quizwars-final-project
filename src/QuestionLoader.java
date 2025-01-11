@@ -10,6 +10,7 @@ public class QuestionLoader {
     
     // array list to store Question objects - BOOK REFFERENCE
     List<Question> questions = new ArrayList<>();
+    // change file path based on device folder. 
     String filePath = "C:\\Users\\kript\\quizwars-final-project\\resources/" + difficulty + ".txt";
     System.out.println("Looking for file at: " + filePath);
 
