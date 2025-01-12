@@ -4,6 +4,7 @@ public class QuizGame {
 
     public static void main(String[] args) {
         int score = 1;
+        int questionNumber = 1;
          
         // Create a Scanner for user input
         Scanner userInput = new Scanner(System.in);
@@ -34,7 +35,7 @@ public class QuizGame {
                 
                 // Display the question and its options
                 System.out.println("========================================");
-                    System.out.println("                Question " + "1");
+                    System.out.println("                Question " + questionNumber);
                 System.out.println("========================================");
                 System.out.println(q.getQuestionText());
                 System.out.println("A: " + q.getOptionA());
@@ -54,6 +55,7 @@ public class QuizGame {
                 } else {
                     System.out.println("TRY AGAIN! The correct answer is: " + q.getCorrectAnswer() + "\n");
                 }
+                questionNumber++;
             }
 
             System.out.println("Game Over! Thanks for playing.");
