@@ -1,2 +1,2 @@
 
-      userInput.close();
+                System.out.print("Your Answer: ");
