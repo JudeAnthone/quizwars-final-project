@@ -4,7 +4,7 @@ public class QuizGame {
 
     public static void main(String[] args) {
         int score = 1;
-        int questionNumber = 1;
+         
          
         // Create a Scanner for user input
         Scanner userInput = new Scanner(System.in);
@@ -29,6 +29,8 @@ public class QuizGame {
         if (questions != null && !questions.isEmpty()) {
             System.out.println("\nStarting the Game!!!!!\n");
 
+            int questionNumber = 1;
+
             // Loop through and display each question
             for (Question q : questions) {
                  
@@ -51,7 +53,8 @@ public class QuizGame {
                 // Check if the user's answer is correct
                 if (answer.equals(q.getCorrectAnswer())) {
                     System.out.println("Correct!\n");
-                    System.err.println("Your Score " + score++);  
+                    score++;
+                    System.err.println("Your Score " + score);  
                 } else {
                     System.out.println("TRY AGAIN! The correct answer is: " + q.getCorrectAnswer() + "\n");
                 }
@@ -59,6 +62,7 @@ public class QuizGame {
             }
 
             System.out.println("Game Over! Thanks for playing.");
+            System.out.println("Total Score is: " + score);
         } else {
             // If no questions are available for the selected difficulty
             System.out.println("\nNo questions available for the selected difficulty. Please try again.");
