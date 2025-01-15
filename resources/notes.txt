@@ -1,6 +1,6 @@
  QUIZWARS-FINAL/
 ├── src/
-│   ├── Main.java
+│   ├── QuizGame.java (Main)
 │   ├── Question.java
 │   ├── EasyQuestion.java
 │   ├── MediumQuestion.java
@@ -14,21 +14,3 @@
 └── README.md
 
 
-
-
-Updated Java Code
-Main.java: This is the entry point.
-
-Question.java: Base class for all questions (easy, medium, hard).
-
-EasyQuestion.java
-
-MediumQuestion.java
-
-HardQuestion.java: 
-
-These classes extend Question and handle the specific difficulty logic.
-
-resources: easy, medium, hard
-
-test  test

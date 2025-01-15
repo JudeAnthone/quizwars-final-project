@@ -6,7 +6,7 @@ public class MediumQuestion extends Question {
   // constructor
   public MediumQuestion(String questionText, String optionA, String optionB, String optionC, String optionD, String correctAnswer) {
     super(questionText, optionA, optionB, optionC, optionD);
-    this.correctAnswer = correctAnswer;
+      this.correctAnswer = correctAnswer;
   }
   
   @Override

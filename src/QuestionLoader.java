@@ -1,4 +1,4 @@
-// utility class
+ // utility class
 import java.io.*;
 import java.util.*;
 
@@ -11,7 +11,7 @@ public class QuestionLoader {
       List<Question> questions = new ArrayList<>();
         // change file path based on device folder. 
         String filePath = "C:\\Users\\kript\\quizwars-final-project\\resources/" + difficulty + ".txt";
-        System.out.println("Looking for file at: " + filePath);
+        System.out.println("\nLooking for file at:" + filePath);
 
             // reader method to read the txt files from filePath
     try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {

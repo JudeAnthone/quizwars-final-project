@@ -12,7 +12,7 @@
 
 7. A circle has a radius of 7. What is its area?,49π,14π,21π,77π,A
 
-8. A triangle with sides 5, 12, and 13 is:,Equilateral,Right,Isosceles,Scalene,B
+8. A triangle with sides 5 12 and 13 is:,Equilateral,Right,Isosceles,Scalene,B
 
 9. What is the molar mass of H2SO4?,96 g/mol,98 g/mol,100 g/mol,102 g/mol,B
 

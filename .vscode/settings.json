@@ -1,5 +1,9 @@
 {
   "java.project.sourcePaths": [
     "src"
-  ]
+  ],
+  "[java]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": false
+  }
 }
