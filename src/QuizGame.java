@@ -1,14 +1,14 @@
 import java.util.*;
 
 public class QuizGame {
-    // Console width (adjust if needed)
+    // Console width 
     private static final int CONSOLE_WIDTH = 60;
 
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         boolean playAgain = true;
 
-        // Keep the ASCII art title as is since it's pre-formatted
+      
         System.out.println(
 												" __        __   _                            _           ___        _    __        __             _ \r\n" +
                 " \\ \\      / /__| | ___ ___  _ __ ___   ___  | |_ ___    / _ \\ _   _(_)___\\ \\      / /_ _ _ __ ___| |\r\n" +
@@ -134,30 +134,32 @@ public class QuizGame {
         userInput.close();
     }
 
-    // Helper method to center text
-    private static void printCentered(String text) {
-        int padding = (CONSOLE_WIDTH - text.length()) / 2;
-        if (padding > 0) {
-            System.out.println(" ".repeat(padding) + text);
-        } else {
-            System.out.println(text);
-        }
-    }
+    //center text method
+		private static void printCentered(String text) {
+			int padding = (CONSOLE_WIDTH - text.length()) / 2;
+			if (padding > 0) {
+				System.out.println(" ".repeat(padding) + text);
+			} else {
+				System.out.println(text);
+			}
+		}
+		
+		// progress bars
+		private static String getProgressBar(int current, int total) {
+			int barLength = 20;
+			int progress = (int) ((double) current / total * barLength);
+			StringBuilder bars = new StringBuilder();
+			for (int i = 0; i < barLength; i++) {
+				if (i < progress) {
+					bars.append("=");
+				} else {
+					bars.append("-");
+				}
+			}
+			return bars.toString();
+		}
 
-    private static String getProgressBar(int current, int total) {
-        int barLength = 20;
-        int progress = (int) ((double) current / total * barLength);
-        StringBuilder bars = new StringBuilder();
-        for (int i = 0; i < barLength; i++) {
-            if (i < progress) {
-                bars.append("=");
-            } else {
-                bars.append("-");
-            }
-        }
-        return bars.toString();
-    }
-
+		// delays
     private static void sleep(long milliseconds) {
         try {
             Thread.sleep(milliseconds);
