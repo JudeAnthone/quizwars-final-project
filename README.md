@@ -1,1 +1,3 @@
 # quizwars-final-project
+
+THIS PROJECT IS RUNNED ON VSCODE - NOT THE FINAL REPO
